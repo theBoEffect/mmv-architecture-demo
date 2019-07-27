@@ -15,7 +15,7 @@ This overview will illustrate my specific approach to enterprise architecture. I
 
 In this overview you will see an abbreviated example of how I analyze an opportunity and problems to solve in order to define architectural patterns and solutions. Additionally, this will showcase my general development abilities, and can be used as an example of my implementation capabilities across a variety of technologies. While the overview will not be exhaustive relative to the list above, I think it will be sufficient for the purposes of a demonstration. This overview format utilizes the concept of a Design Sketch, something that I myself did not invent but use frequently.
 
-###### Credit for the Design Sketch format goes to one of my mentors and is available upon request
+###### _Credit for the Design Sketch format goes to one of my mentors and is available upon request_
 
 Assumptions for this overview:
 * Purpose is to communicate how I design and communicate software and systems architecture
