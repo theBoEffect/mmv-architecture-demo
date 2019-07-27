@@ -2,7 +2,7 @@
 
 Assumptions for this overview:
 * Purpose is to communicate how I design and communicate software and systems architecture
-* Specific architecture is of my choosing
+* Specific architecture/software being demonstrated is of my choosing
 
 The actual overview can be found [here](link)
 
