@@ -17,10 +17,11 @@ In this overview you will see an abbreviated example of how I analyze an opportu
 
 ###### _Credit for the Design Sketch format goes to one of my mentors and is available upon request_
 
-Assumptions for this overview:
+### Assumptions:
 * Purpose is to communicate how I design and communicate software and systems architecture
 * Specific architecture/software being demonstrated is of my choosing
 
+### The Overview
 The actual overview can be found [here](https://github.com/theBoEffect/mmv-architecture-demo/wiki)
 
 Code section of this repository is primarily to house reference materials. Please click the above link to see full documentation.
