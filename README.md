@@ -17,7 +17,7 @@ In this overview you will see an abbreviated example of how I analyze an opportu
 
 ###### _Credit for the Design Sketch format goes to one of my mentors and is available upon request_
 
-### Assumptions:
+### Assumptions
 * Purpose is to communicate how I design and communicate software and systems architecture
 * Specific architecture/software being demonstrated is of my choosing
 
