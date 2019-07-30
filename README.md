@@ -9,7 +9,7 @@ The overview can be found [here](https://github.com/theBoEffect/mmv-architecture
 ###### _Credit for the Design Sketch format goes to one of my mentors and is available upon request_
 
 ### Assumptions
-* This is intended to be a brief example of architectural and technical ability only. It does not delve into ROI/Financial Analysis, Business Strategy, or specific Development Processes.
+* This is intended to be a brief example of architectural and technical ability only. It may touch on but does not delve into ROI/Financial Analysis, Business Strategy, or specific Development Processes.
     * Purpose is to communicate how I design and communicate software and systems architecture
 * Specific architecture/software being demonstrated is of my choosing
 
